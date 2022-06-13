@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Solomon333/FCC-quote-machine.git/static/css/main.923c13f1.css",
-    "main.js": "/Solomon333/FCC-quote-machine.git/static/js/main.f6944be6.js",
-    "static/js/787.e43a185d.chunk.js": "/Solomon333/FCC-quote-machine.git/static/js/787.e43a185d.chunk.js",
-    "index.html": "/Solomon333/FCC-quote-machine.git/index.html",
-    "main.923c13f1.css.map": "/Solomon333/FCC-quote-machine.git/static/css/main.923c13f1.css.map",
-    "main.f6944be6.js.map": "/Solomon333/FCC-quote-machine.git/static/js/main.f6944be6.js.map",
-    "787.e43a185d.chunk.js.map": "/Solomon333/FCC-quote-machine.git/static/js/787.e43a185d.chunk.js.map"
+    "main.css": "/Solomon333/quote-machine.git/static/css/main.923c13f1.css",
+    "main.js": "/Solomon333/quote-machine.git/static/js/main.2b37baa2.js",
+    "static/js/787.e43a185d.chunk.js": "/Solomon333/quote-machine.git/static/js/787.e43a185d.chunk.js",
+    "index.html": "/Solomon333/quote-machine.git/index.html",
+    "main.923c13f1.css.map": "/Solomon333/quote-machine.git/static/css/main.923c13f1.css.map",
+    "main.2b37baa2.js.map": "/Solomon333/quote-machine.git/static/js/main.2b37baa2.js.map",
+    "787.e43a185d.chunk.js.map": "/Solomon333/quote-machine.git/static/js/787.e43a185d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.923c13f1.css",
-    "static/js/main.f6944be6.js"
+    "static/js/main.2b37baa2.js"
   ]
 }
